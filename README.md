@@ -15,6 +15,8 @@ The dataset tracks weekly reading performance by second grade students, includin
 - Performance trends fluctuated but showed overall decline as word count increased
 
 ## Tools Used
+- Anaconda
+- Jupyter Notebook
 - Python
 - pandas
 - matplotlib
